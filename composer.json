@@ -1,0 +1,14 @@
+{
+    "name": "nileshn/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nilesh N",
+            "email": "nileshknamdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
